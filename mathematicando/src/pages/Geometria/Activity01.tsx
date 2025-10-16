@@ -1,7 +1,5 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faArrowLeft, faGlobe, faHashtag, faLink } from '@fortawesome/free-solid-svg-icons';
 import { motion } from 'framer-motion';
 import { InlineMath, BlockMath } from 'react-katex';
 import { ArrowLeft, Globe, Twitter, Linkedin, Github } from 'lucide-react';
